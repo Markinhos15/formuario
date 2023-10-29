@@ -1,0 +1,19 @@
+main {
+
+	width: 950px;
+	margin: 0px auto;
+}
+
+form {
+	margin: 40px 0;
+}
+
+form label{
+
+	display: block;
+	color: white;
+}
+
+form input{
+	display: block;
+}
